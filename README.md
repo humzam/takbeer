@@ -1,4 +1,7 @@
-# Welcome to your Expo app 👋
+# takbeer
+Prayer tracking productivity app to help Muslims complete more prayers on time, with their friends and family.
+
+## Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
